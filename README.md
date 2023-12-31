@@ -29,5 +29,5 @@ Additionally, it provides the following methods:
 
 ## 🤝 Contributions
 
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Age-Calculator/assets/90756437/81dd2f61-6de4-499f-81e8-47c1cc6ae5ae"></a>
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Age-Calculator/assets/90756437/81dd2f61-6de4-499f-81e8-47c1cc6ae5ae"></a>
 Contributions are welcome! If you have suggestions, improvements, or corrections, feel free to submit pull requests. Diversity of ideas enriches the project.
