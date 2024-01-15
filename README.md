@@ -14,19 +14,6 @@ To calculate a person's age, simply follow these steps:
 2. Use the `getAge()` method to obtain the person's age.
 3. Print the result.
 
-## 🧑‍💼 Person Class
-
-The `Person` class encapsulates the person's information:
-
-- **name:** Person's name.
-- **birthdate:** Person's date of birth.
-
-Additionally, it provides the following methods:
-
-- **getName():** Returns the person's name.
-- **getBirthdate():** Returns the person's date of birth.
-- **getAge():** Calculates and returns the person's age.
-
 ## 🤝 Contributions
 
 <img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Age-Calculator/assets/90756437/81dd2f61-6de4-499f-81e8-47c1cc6ae5ae"></a>
