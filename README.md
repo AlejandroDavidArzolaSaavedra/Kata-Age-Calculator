@@ -1,6 +1,7 @@
 <h1 align="center">🔄 Age Calculator</h1>
 
-This Java project, titled "Age Calculator," provides a simple solution for calculating a person's age. It utilizes the `Person` class, which encapsulates the necessary information and provides a method to calculate age based on the date of birth.
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Age-Calculator/assets/90756437/7f41f91c-30cd-4679-b528-8d4dd9574888"></a>
+This Java project, titled "Age Calculator," provides a simple solution for calculating a person's age. It utilizes the `Person` class, which encapsulates the necessary information and provides a method to calculate age based on the date of birth.<br><br><br>
 
 # 👥 Development Team (Ctrl + Click to view profiles)
 
